@@ -6,4 +6,4 @@
 <a href="https://github.com/ReginaGashi/Eyes"> Moving Eye Exercise </a>
 
 #### My Map Animation Repo
-<a href="https://github.com/ReginaGashi/Maps"> Moving Eye Exercise </a>
+<a href="https://github.com/ReginaGashi/Maps"> Map Animation Exercise </a>
